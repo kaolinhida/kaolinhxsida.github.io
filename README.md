@@ -3,7 +3,6 @@
 
 <html>
  <head>
-  <title>История Гроув Стрит</title>
  </head>
  <body>
   <h1>Гроув Стрит</h1>
