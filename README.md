@@ -22,7 +22,6 @@
  
  <head>
   <meta charset="utf-8">
-  <title>Большой дым</title>
   <style>
    .sign {
     float: right; 
