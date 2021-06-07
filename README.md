@@ -22,17 +22,17 @@
  
  <head>
   <meta charset="utf-8">
-  <title>Подрисуночная подпись</title>
+  <title>Большой дым</title>
   <style>
    .sign {
-    float: right; /* Выравнивание по правому краю */
-    border: 1px solid #333; /* Параметры рамки */
-    padding: 7px; /* Поля внутри блока */
-    margin: 10px 0 5px 5px; /* Отступы вокруг */
-    background: #f0f0f0; /* Цвет фона */ 
+    float: right; 
+    border: 1px solid #333; 
+    padding: 7px; 
+    margin: 10px 0 5px 5px; 
+    background: #f0f0f0; 
    }
    .sign figcaption {
-    margin: 0 auto 5px; /* Отступы вокруг абзаца */
+    margin: 0 auto 5px;
    }
   </style>
   <!--[if lt IE 9]>
