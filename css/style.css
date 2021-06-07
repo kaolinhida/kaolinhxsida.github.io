@@ -18,10 +18,7 @@ h3 {font-size:14px; font-weight:bold; color:#333;}
 #midrow {width:960px;margin:0 auto;}
 #bottomrow {width:960px;margin:0 auto;}
 
-/*LOGO*/
-#logo{padding-top:25px;width:207px;float:left;}
-#logo a{background:url(images/logo.gif) no-repeat;display:block;width:207px;height:53px;text-indent:-10000px;}
-/*LOGO END*/
+
 
 /*Menu Begin*/
 #menu{float:right;margin-top:30px;}
