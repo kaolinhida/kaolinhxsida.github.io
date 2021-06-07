@@ -1,23 +1,73 @@
-# kaolinhida.github.io
-
-
-<html>
- <head>
-  <title>История Гроув Стрит</title>
- </head>
- <body>
-  <h1>Гроув Стрит</h1>
-  <img src="333px-GroveStreetFamilies-GTASA-members.png">
- <p>
- Гроув Стрит — афроамериканская уличная банда в городе Лос-Сантос, в отличие от остальных банд в штате. 
- Банда исповедует неприятие тяжёлых наркотиков и выступает против их распространения на своих территориях, 
- хотя торговля оружием и уличные стычки для членов банды — самое привычное дело. 
- Также по ходу банда всё больше вовлекается в такую деятельность, как убийства/заказные убийства, 
- а позже — ограбления, кражи со взломом/кражи, сутенерство. </p>
- <p>
- Банда сформировалась в районе Гэнтон, примерно в 60-х годах, а возможно и ранее, 
- поэтому являются самой старейшей бандой в Лос-Сантосе. 
- Затем они заняли все соседние территории. А в Восточном Лос-Сантосе Гроув Стрит столкнулись с бандой Баллас, 
- которая в последствии стала их кровным врагом. </p>
- </body>
+[Переслано от sоnя]
+="card-title"> Ітан Торкйо</h4>
+      <p class="card-text">барабанщик</p>
+<!--       <a href="#" class="btn btn-primary">See Profile</a> -->
+    </div>
+  </div>
+</div>
+<!--   Accordion -->
+    <head>
+  <title>Bootstrap Example</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+     <body>
+<div class="container">
+  <h2>Instagram сторінки групи та учасників</h2>
+  <p></p>
+  <p></p>
+  <p></p>                                          
+  <div class="dropdown">
+    <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+      links
+    </button>
+    <div class="dropdown-menu">
+      <a class="dropdown-item" href="#"> <div class="card-body">
+          <a href="https://www.instagram.com/maneskinofficial/?utm_medium=copy_link"
+          href="default.asp"
+          target="_blank"> Band instagram </a></p></a> </div></a>
+      <a class="dropdown-item" href="#"> <div class="card-body">
+       <a href="https://www.instagram.com/ykaaar/?utm_medium=copy_link"
+          href="default.asp"
+          target="_blank"> Damiano David instagram </a></p></a> 
+        </div></a>
+      <a class="dropdown-item" href="#"><div class="card-body">
+        <a href="https:https://www.instagram.com/vicdeangelis/?utm_medium=copy_link"
+                                                                                 href="default.asp"
+                                                                                 target="_blank"> Victoria De Angelis instagram </a></p></a>    </div></a>
+       <a class="dropdown-item" href="#"><div class="card-body">
+         <a href="https://www.instagram.com/thomasraggi__/?utm_medium=copy_link"
+                                                                                 href="default.asp"
+                                                                                 target="_blank"> Thomas Raggi instagram </a></p></a>   </div></a>
+       <a class="dropdown-item" href="#">   <div class="card-body">
+        <a href="https://www.instagram.com/ethaneskin/?utm_medium=copy_link"
+                                                                                 href="default.asp"
+                                                                                 target="_blank"> Ethan Torchio instagram </a></p></a>  </div></a>
+    </div>
+  </div>
+</div>
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+  <h2> Фотогалерея</h2>
+  <p></p> 
+  <img src="https://cutt.ly/EntWNdn" class="float-left" alt="Paris" width="304" height="236"> 
+  <img src="https://cutt.ly/TntEQQr" class="float-left" alt="Paris" width="304" height="236"> 
+   <img src="https://cutt.ly/VntERg2" class="float-left" alt="Paris" width="304" height="236"> 
+   <img src="https://cutt.ly/7ntRutb" class="float-left" alt="Paris" width="304" height="236"> 
+   <img src="https://cutt.ly/wntOtgO" class="float-left" alt="Paris" width="304" height="236"> 
+   <img src="https://cutt.ly/9ntReS7" class="float-centr" alt="Paris" width="304" height="236"> 
+</div>
+</body>
 </html>
