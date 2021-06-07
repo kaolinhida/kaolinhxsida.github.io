@@ -22,17 +22,6 @@
  
  <head>
   <meta charset="utf-8">
-  <style>
-   .sign {
-    float: right; 
-    border: 1px solid #333; 
-    padding: 7px; 
-    margin: 10px 0 5px 5px; 
-    background: #f0f0f0; 
-   }
-   .sign figcaption {
-    margin: 0 auto 5px;
-   }
   </style>
   <!--[if lt IE 9]>
    <script>
