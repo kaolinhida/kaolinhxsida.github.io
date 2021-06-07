@@ -22,12 +22,12 @@
  <div class="container">
   <h2> Фотогалерея</h2>
   <p></p> 
-  <img src="Безым234янный" class="float-left" alt="Paris" width="304" height="236"> 
-  <img src="Безымянный" class="float-left" alt="Paris" width="304" height="236"> 
-   <img src="Безымянн1ый" class="float-left" alt="Paris" width="304" height="236"> 
-   <img src="Безымянны2й" class="float-left" alt="Paris" width="304" height="236"> 
-   <img src="Безымянн2222ый" class="float-left" alt="Paris" width="304" height="236"> 
-   <img src="Безымянн2223ый" class="float-centr" alt="Paris" width="304" height="236"> 
+  <img src="Безым234янный" class="float-left"  width="304" height="236"> 
+  <img src="Безымянный" class="float-left"  width="304" height="236"> 
+   <img src="Безымянн1ый" class="float-left"  width="304" height="236"> 
+   <img src="Безымянны2й" class="float-left"  width="304" height="236"> 
+   <img src="Безымянн2222ый" class="float-left"  width="304" height="236"> 
+   <img src="Безымянн2223ый" class="float-centr"  width="304" height="236"> 
 </div>
  </body>
 </html>
